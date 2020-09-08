@@ -2,6 +2,19 @@
 layout: default
 ---
 
+# DANH SÁCH BÀI VIẾT
+
+| TIÊU ĐỀ      | TRẠNG THÁI        | THỜI GIAN |
+|:-------------|:------------------|:----------|
+| HƯỚNG DẪN SỬ DỤNG GCLOUD SHELL           | GHI CHÚ | 08/09/2020  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
+* * *
+
+# HƯỚNG DẪN SỬ DỤNG MARKDOWN
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
