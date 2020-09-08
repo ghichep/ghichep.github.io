@@ -4,10 +4,12 @@ layout: default
 
 # DANH SÁCH BÀI VIẾT
 
-| TIÊU ĐỀ                                  | TRẠNG THÁI        | THỜI GIAN   |
-|:-----------------------------------------|:------------------|:------------|
-| HƯỚNG DẪN SỬ DỤNG GCLOUD SHELL           | GHI CHÚ           | 08/09/2020  |
-| BLOG GITHUB.IO                           | GHI CHÚ           | 08/09/2020  |
+
+1.  [SỬ DỤNG GCLOUD SHELL](./posts/HƯỚNG DẪN SỬ DỤNG GCLOUD SHELL.html)
+_08/09/2020_
+
+1.  [SỬ DỤNG GITHUB.IO LÀM BLOG](./posts/SỬ DỤNG GITHUB.IO LÀM BLOG.html)
+_08/09/2020_
 
 * * *
 
