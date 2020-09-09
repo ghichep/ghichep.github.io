@@ -1,19 +1,17 @@
 ---
 layout: default
 ---
+#GHI CHÉP LINH TINH
 
-# DANH SÁCH BÀI VIẾT
+## DANH SÁCH BÀI VIẾT
 
 
-1.  [SỬ DỤNG GCLOUD SHELL](./posts/HƯỚNG DẪN SỬ DỤNG GCLOUD SHELL.html)
-- _08/09/2020_
-
-1.  [SỬ DỤNG GITHUB.IO LÀM BLOG](./posts/XÂY DỰNG BLOG GITHUB.IO.html)
-- _08/09/2020_
+1.  [SỬ DỤNG GCLOUD SHELL](./posts/HƯỚNG DẪN SỬ DỤNG GCLOUD SHELL.html) - _08/09/2020_
+1.  [SỬ DỤNG GITHUB.IO LÀM BLOG](./posts/XÂY DỰNG BLOG GITHUB.IO.html) - _08/09/2020_
 
 * * *
 
-# HƯỚNG DẪN SỬ DỤNG MARKDOWN
+## HƯỚNG DẪN SỬ DỤNG MARKDOWN
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
