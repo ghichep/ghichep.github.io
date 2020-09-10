@@ -6,6 +6,8 @@ layout: default
 
 ## TẢI GCLOUD SHELL TRÊN WINDOWS
 
+Mở cmd hoặc powershell lên để tiến hành tải thư viện SDK của GCloud
+
 ```powershell
 (New-Object Net.WebClient).DownloadFile("https://dl.google.com/dl/cloudsdk/channels/rapid/GoogleCloudSDKInstaller.exe", "$env:Temp\GoogleCloudSDKInstaller.exe")
 
@@ -13,6 +15,8 @@ layout: default
 ```
 
 ## CÀI ĐẶT
+
+Mở cmd hoặc powershell lên để tiến hành cài đặt **Alpha**
 
 ```bash
 gcloud alpha
