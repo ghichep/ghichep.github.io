@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-#GHICHÉPLINHTINH
+__#GHICHÉPLINHTINH__
 
 ## DANH SÁCH BÀI VIẾT
 
