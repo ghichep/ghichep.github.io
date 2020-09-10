@@ -1,6 +1,7 @@
 title: GHI CHÉP LINH TINH
 description: Kiến thức là vô tận, hãy luôn đặt câu hỏi tại sao
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
 siteUrl: https://ghichep.github.io/
+siteTools: https://ghichep.herokuapp.com/
